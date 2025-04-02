@@ -1,0 +1,17 @@
+package br.dev.ana.git_test;
+
+public class AppTest {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Olá mundo!");
+		System.out.println("SENAI JANDIRA!");
+		System.out.println("TURMA DS1T-A!");
+		System.out.println("TURMA DS1T-A!");
+		System.out.println("TURMA DS1T-A!");
+		System.out.println("TURMA DS1T-A!");
+		
+		
+     }
+
+}
